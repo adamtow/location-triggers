@@ -35,7 +35,7 @@
             "menu_settings_unit": "Calculate Distances Using",
             "menu_settings_update": "Check for Updates…",
             "menu_settings_viewLogs": "View Logs…",
-            "menu_update_confirm": "Update Now…",
+            "menu_update_now": "Update Now…",
             "menu_update_later": "Update Later",
             "prompt_device_custom": "Enter the name of the iOS device on which this Autocut will run.\n\nYou can find the device name in Settings > General > About > Name",
             "prompt_limitkit_interval": "For each location trigger, enter the number of minutes to wait between location checks.",
@@ -48,6 +48,6 @@
             "prompt_new_radius": "Enter location trigger radius in {{unit}}:",
             "prompt_new_type": "Create a new Autocuts location trigger that will automatically run a shortcut when you arrive or leave a location.\n\nDon't forget to have Autocuts set to run as an Open App Personal Automation.",
             "prompt_settings_radius": "Enter the default trigger radius in {{unit}}:",
-            "prompt_update": "Version {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}"
+            "prompt_update": "{{app}} {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}"
     }
 }
