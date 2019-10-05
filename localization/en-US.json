@@ -25,7 +25,7 @@
             "menu_new_dateCustom": "Custom Date and Time…",
             "menu_new_dateNow": "Immediately",
             "menu_new_input_askShortcut_confirm": "Ask Shortcut for Input…",
-            "menu_new_input_askShortcut_confirm": "Cancel",
+            "menu_new_input_askShortcut_cancel": "Cancel",
             "menu_new_leave": "When I Leave",
             "menu_quit": "Quit",
             "menu_settings": "Settings…",
