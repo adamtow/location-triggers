@@ -46,6 +46,7 @@
           "menu_onSuccess_delete": "Delete",
           "menu_onSuccess_disable": "Disable",
           "menu_onSuccess_nothing": "Do Nothing",
+          "menu_onSuccess_reset": "Reset",
           "menu_quit": "Quit",
           "menu_reset": "Reset…",
           "menu_reset_bulk": "Reset",
