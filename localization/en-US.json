@@ -5,7 +5,6 @@
           "alert_new_shortcut": "You must select a shortcut to continue.",
           "alert_update_none": "You are running the latest version of Location Triggers.",
           "alert_update_none_title": "No Update Avaiable",
-          "error_locationTriggers_none": "You have no location triggers. Tap New… from the Home screen to create one.",
           "error_location_invalid": "The location entered is invalid",
           "error_timeRange": "The end date is before the start date.",
           "label_feet": "Feet",
@@ -90,7 +89,7 @@
           "prompt_new_time": "Select the time your location trigger will be evaluated:",
           "prompt_new_time_rangeEnd": "Select the end time:",
           "prompt_new_time_rangeStart": "Select the start time:",
-          "prompt_new_type": "Create a new location trigger that will automatically run a shortcut when you arrive or leave a location.\n\nDon't forget to create an Autocut to run Location Triggers.",
+          "prompt_new_type": "Create a new location trigger that will run a shortcut when you arrive or leave a location.\n\nIf you want your shortcuts to run automatically while you use your iOS device, use Location Triggers with Autocuts.",
           "prompt_settings_radius": "Enter the default trigger radius in {{unit}}:",
           "prompt_update": "{{app}} {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}"
       }
