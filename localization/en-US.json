@@ -5,6 +5,8 @@
           "alert_new_shortcut": "You must select a shortcut to continue.",
           "alert_update_none": "You are running the latest version of Location Triggers.",
           "alert_update_none_title": "No Update Avaiable",
+          "alert_welcome": "Location Triggers runs shortcuts as you arrive and leave locations.\n\nPair it with Autocuts, and your shortcuts can run automatically in the background while you use your iOS device.",
+          "alert_welcome_title": "Welcome to Location Triggers!",
           "error_location_invalid": "The location entered is invalid",
           "error_timeRange": "The end date is before the start date.",
           "label_disabled": "Location Trigger is Disabled",
