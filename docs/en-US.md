@@ -1,0 +1,1 @@
+Location Triggers works with Autocuts to automatically run shortcuts in the background based on your location while you use your iOS device.
