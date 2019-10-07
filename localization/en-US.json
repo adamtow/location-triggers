@@ -55,6 +55,7 @@
           "menu_onSuccess_reset": "Reset",
           "menu_quit": "Quit",
           "menu_reset": "Reset…",
+          "menu_reset_locationTrigger": "Reset",
           "menu_reset_bulk": "Reset",
           "menu_reset_cancel": "Don't Reset",
           "menu_reset_settings": "Reset Settings...",
