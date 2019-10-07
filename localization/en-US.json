@@ -18,6 +18,8 @@
           "label_miles": "Miles",
           "label_minutes": "minutes",
           "label_weather": "Weather",
+          "language_key": "en-US",
+          "language_name": "English",
           "menu_about": "About…",
           "menu_actions": "Actions",
           "menu_back_home": "Back to Home",
