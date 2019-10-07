@@ -1,6 +1,6 @@
 {
       "en-US": {
-          "alert_about": "Location triggers that works with Autocuts to automatically run shortcuts in the background based on your location while you use your iOS device.",
+          "alert_about": "Location Triggers works with Autocuts to automatically run shortcuts in the background based on your location while you use your iOS device.",
           "alert_get_location": "Retrieving your current location. This may take a few moments.",
           "alert_new_shortcut": "You must select a shortcut to continue.",
           "alert_update_none": "You are running the latest version of Location Triggers.",
@@ -52,6 +52,7 @@
           "menu_reset_bulk": "Reset",
           "menu_run": "Run…",
           "menu_settings": "Settings…",
+          "menu_settings_": "Change Language…",
           "menu_settings_limitkit": "Enable LimitKit",
           "menu_settings_limitkitInterval": "LimitKit Interval",
           "menu_settings_locationMethod": "Get Location Using",
@@ -78,6 +79,7 @@
           "prompt_delete": "Delete this location trigger? This operation cannot be undone.",
           "prompt_delete_multiple": "Delete these location triggers? This operation cannot be undone.",
           "prompt_filter": "Separate keywords with newlines to filter the list of location triggers.",
+          "prompt_language": "Choose Language:",
           "prompt_limitkit_interval": "Enter the number of minutes to wait between evaluations when run by Autocuts.\n\nTapping the Run button from this shortcut's Home screen will always evaluate your location triggers.",
           "prompt_new_input": "Select an input type for this shortcut:",
           "prompt_new_inputText": "Optional. Enter input for shortcut",
