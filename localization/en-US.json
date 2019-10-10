@@ -1,6 +1,7 @@
 {
       "en-US": {
           "alert_about": "Location Triggers works with Autocuts to automatically run shortcuts in the background based on your location while you use your iOS device.",
+          "alert_donate": "Thank you for donating and supporting my Shortcuts development!",
           "alert_get_location": "Retrieving your current location. This may take a few moments.",
           "alert_new_shortcut": "You must select a shortcut to continue.",
           "alert_update_none": "You are running the latest version of Location Triggers.",
@@ -35,6 +36,9 @@
           "menu_device_all": "Any Device",
           "menu_device_custom": "A Specific Device…",
           "menu_device_this": "This Device",
+          "menu_donate": "Donate…",
+          "menu_donate_already": "I Already Donated",
+          "menu_donate_confirm": "Donate Now…",
           "menu_erase_cancel": "Don't Erase",
           "menu_erase_content": "Erase Content and Settings...",
           "menu_filter": "Filter…",
@@ -92,6 +96,7 @@
           "prompt_bulkEdit": "With selected location triggers:",
           "prompt_delete": "Delete this location trigger? This operation cannot be undone.",
           "prompt_delete_multiple": "Delete selected location triggers? This operation cannot be undone.",
+          "prompt_donate": "Have you found Location triggers to be helpful in running your shortcuts automatically in the background when you arrive and leave a location?\n\nSend me a tip to help fund future development of Location Triggers and other shortcuts.",
           "prompt_erase_content": "Are you sure you want to delete all Autocuts content and settings for this device?\n\nThis operation cannot be undone.",
           "prompt_erase_content2": "Are you ABSOLUTELY SURE you want to delete all Autocuts  content and settings for this device?\n\nThis operation cannot be undone.",
           "prompt_filter": "Separate keywords with newlines to filter the list of location triggers.",
