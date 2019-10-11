@@ -58,6 +58,8 @@ This view is displaying when you tap on a location triggers. Each location trigg
 - **Shortcut Input**:
 - **Active Time**: Restrict this location trigger between a start and finish time.
 
+![Location Trigger Detail](https://adamtow.github.io/location-triggers/images/location-trigger-detail.png)
+
 ****
 
 ## Creating a Location Trigger
