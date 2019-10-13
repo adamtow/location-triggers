@@ -1,5 +1,5 @@
 # Location Triggers
-Location Triggers works with [Autocuts](https://adamtow.github.io/autocuts) to automatically run shortcuts in the background based on your location while you use your iOS device — no need to tap on a button in a notification!
+Location Triggers is part of Autocuts Suite, a collection of shortcuts that greatly enhance automation on iOS 13. It works with [Autocuts](https://adamtow.github.io/autocuts) to automatically run shortcuts in the background based on your location while you use your iOS device — no need to tap on a button in a notification!
 
 ![Location Triggers](https://adamtow.github.io/location-triggers/images/location-triggers-screens.png)
 
@@ -11,11 +11,12 @@ Autocuts is a background shortcut manager that works on top of Open App personal
 - Sending text messages, emails, or web requests at certain times of the day or when you arrive or leave locations.
 
 ## Download
-You can get the latest version of Location Triggers from RoutineHub:
+You can get Location Triggers as part of Autocuits Suite or download it individually from RoutineHub:
 
+- [Download Autocuts Suite Installer](https://routinehub.co/shortcut/3661)
 - [Download Location Triggers](https://routinehub.co/shortcut/3620)
 
-You will also want to download the following shortcuts:
+Autocuts Suite contains the following shortcuts:
 
 - [Autocuts](https://routinehub.co/shortcut/3606)
 - [Autocuts Admin](https://routinehub.co/shortcut/3607): Create, manage, and view your Autocuts.
