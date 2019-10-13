@@ -3,6 +3,7 @@
           "alert_about": "Location Triggers works with Autocuts to automatically run shortcuts in the background based on your location while you use your iOS device.",
           "alert_donate": "Thank you for donating and supporting my Shortcuts development!",
           "alert_get_location": "Retrieving your current location. This may take a few moments.",
+          "alert_localization": "Want to see Location Triggers localized for your native language?\n\nVisit Location Triggers' localization page on GitHub and submit a pull request.",
           "alert_new_shortcut": "You must select a shortcut to continue.",
           "alert_update_none": "You are running the latest version of Location Triggers.",
           "alert_update_none_title": "No Update Avaiable",
@@ -136,6 +137,7 @@
           "prompt_new_type": "Create a new location trigger that will run a shortcut when you arrive or leave a location.\n\nIf you want your shortcuts to run automatically while you use your iOS device, use Location Triggers with Autocuts.",
           "prompt_reset": "Reset Location Triggers settings or erase all content and settings for Location Triggers?",
         "prompt_reset_settings": "Are you sure you want to reset Location Triggers settings on this device?\n\nNone of your content will be affected.",
+          "prompt_settings": "Location Trigger Settings",
           "prompt_settings_radius": "Enter the default trigger radius in {{unit}}:",
           "prompt_update": "{{app}} {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}",
           "prompt_view": "Location Trigger Detail"
