@@ -118,7 +118,7 @@ In this example, we're going to create a location trigger centered around Apple'
 ### Share Sheet
 Use the [New Location Trigger From Input shortcut](https://routinehub.co/shortcut/3658) from the iOS Share Sheet to import new locations as location triggers. The shortcut can extract locations from contacts, text, Safari Web Pages, and Maps links.
 
-![New Location Trigger From Input screenshot](https://adamtow.github.io/location-triggers/images/new-location-trigger-from-input.png)
+![New Location Trigger From Input screenshot](https://adamtow.github.io/location-triggers/images/new-location-trigger-from-share.png)
 
 ****
 
